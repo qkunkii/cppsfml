@@ -1,0 +1,3 @@
+/home/qkunkii/ProjectsDTEU/cppsfml/build/CMakeFiles/SFML_Simulation.dir
+/home/qkunkii/ProjectsDTEU/cppsfml/build/CMakeFiles/edit_cache.dir
+/home/qkunkii/ProjectsDTEU/cppsfml/build/CMakeFiles/rebuild_cache.dir
